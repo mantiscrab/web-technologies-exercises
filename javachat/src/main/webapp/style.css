@@ -1,0 +1,42 @@
+div {
+    border: 3px solid black;
+    margin: auto;
+}
+.dimgray {
+
+}
+.dimgray {
+    background-color: dimgray;
+    color: dimgray;
+}
+.gray {
+    background-color: gray;
+    color: gray;
+}
+
+p {
+    margin: 10px ;
+}
+
+form {
+    margin: 10px;
+}
+
+#welcome-div {
+    text-align: center;
+}
+#message-div{
+    text-align: left;
+}
+textarea {
+    display: block;
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+}
+input {
+    display: block;
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+}
